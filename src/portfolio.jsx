@@ -18,7 +18,7 @@ export const main = {
   name: "Ajit Kumar Pandey",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/180_jwLKc801HTfXuAWh1AkxOpYQ7WaEI/view?usp=sharing",
+    "https://drive.google.com/file/d/1nyvY9QUUZA1g324sAPkCzijRPI4UjZaO/view?usp=sharing",
 };
 
 // AboutMe
